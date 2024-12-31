@@ -62,11 +62,5 @@ WEVolunteer plans to conduct further research to identify and map homeless indiv
 2. Open the project in NetBeans.
 3. Run the application.
 
-## Contributing
-We welcome contributions! If you have ideas for improvements or new features, feel free to fork the project and submit a pull request.
 
-## Acknowledgments
-We extend our gratitude to all contributors and users who help make WEVolunteer a powerful tool for connecting volunteers and aid seekers. Thank you for your support!
-
-Presentation public link: https://www.canva.com/design/DAF3HFDe_EA/r-32BAXc1_qGS9q40-mnEA/view?utm_content=DAF3HFDe_EA&utm_campaign=designshare&utm_medium=link&utm_source=editor#8
 
