@@ -15,21 +15,6 @@ The primary purpose of WEVolunteer is to:
 - Encourage community engagement and volunteerism on a larger scale.
 - Encourage global community engagement and volunteerism, fostering prosperity, love, and a sense of shared humanity.
 
-## Diagrams and screenshots of panels:
-### Class Diagram :
-![Class diagram](/src/Resources/classdiagram.png)
-### Panels Screenshots : 
-![Home Page](/src/Resources/Screenshot1.png)
---
-![Login Page](/src/Resources/Screenshot2.png)
---
-![Sign up Page](/src/Resources/Screenshot3.png)
---
-![Organization Panel](/src/Resources/Screenshot4.png)
---
-![Analytics](/src/Resources/Screenshot5.PNG)
-
-
 ## Key Features
 ### User Roles:
 - **Individuals:** Can sign up, view volunteering opportunities, and sign up based on interests or mention specific interests for targeted mapping.
